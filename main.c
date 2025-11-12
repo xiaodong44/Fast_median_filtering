@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 
-int test()
+int test1()
 {
 	return 2;
 }
