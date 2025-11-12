@@ -3,6 +3,10 @@
 #include <string.h>
 #include <time.h>
 
+int test()
+{
+	return 2;
+}
 // 前面两个函数的代码在这里...
 
 /**
