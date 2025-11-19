@@ -5,7 +5,7 @@
 
 int test1()
 {
-	return 2;
+	return 20;
 }
 // 前面两个函数的代码在这里...
 
